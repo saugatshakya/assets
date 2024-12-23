@@ -1,0 +1,625 @@
+[{
+  "_id": {
+    "$oid": "676908112578a0a3ae944388"
+  },
+  "name": "Oyo Hotel Gauri",
+  "latlng": [
+    27.70407,
+    85.350786
+  ],
+  "type": "Hotels",
+  "star": "4.0",
+  "location": "Pingalasthan,  Kathmandu-9, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNuqiGfV6RhJ5G78metUC0X2lW7B4kP5pdSM10t=w100-h115-p-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.350786,
+      27.70407
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908122578a0a3ae94438a"
+  },
+  "name": "Nepal Pavilion Inn",
+  "latlng": [
+    27.7115348,
+    85.3120342
+  ],
+  "type": "Hotels",
+  "star": "4.3",
+  "location": "Tahiti, Jyatha Marg, Kathmandu-26, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGR1MlkKl_yNiXtjRrJrIl1vuBntwNyMmkAvAYDmneloJSinqdS3oOwrJLcDIW4dThjR26NkhumTCDYtrALjyB4g4Ge9HT4HEATGpIWPsoLTSnmvPIxe__XiB6XWmUXBrOVMCLzjOcvDk19OX_PC72j7GAAxoCLL_S2l8-ANj3g0SeOs0URRIFu=w128-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3120342,
+      27.7115348
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908122578a0a3ae94438c"
+  },
+  "name": "vibor hotel",
+  "latlng": [
+    27.7318346,
+    85.3439698
+  ],
+  "type": "Hotels",
+  "star": "4.3",
+  "location": "Dhumbarahi,  Kathmandu-4, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPAnL__62X5Xm7vgDhKrrknTSHIizQPd5dMpTn8=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3439698,
+      27.7318346
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908122578a0a3ae94438e"
+  },
+  "name": "Ramada by Wyndham Kathmandu Dhumbarahi",
+  "latlng": [
+    27.7336305,
+    85.3443775
+  ],
+  "type": "Hotels",
+  "star": "4.4",
+  "location": "Dhumbarahi, नवमार्ग, Budhanilakantha-9, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEzRYxIKDaMfkDmaTDvsB0Ul7fmdvotCWq4wKabX5q88lwKYjCf2DddKFUl_EXtY8CNW2A1edfx1c5WVrZrzRPuEx62ZCuuAtDMi7QpXVdxY2RVpc8tVazXZiNrYKMy888Iw1Hox2kw_JFm3qHB2lSeGpJ_84E7xRFAFxfHp-qYfMvVUzcHMH1t=w138-h92-k-no"
+  ],
+  "price": "NPR 15.5K",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3443775,
+      27.7336305
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908132578a0a3ae944390"
+  },
+  "name": "Kathmandu Marriott Hotel",
+  "latlng": [
+    27.7128456,
+    85.3245087
+  ],
+  "type": "Hotels",
+  "star": "4.6",
+  "location": "Hattisar, मानकामना मार्ग, Kathmandu-1, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHENLgKNcUFt6zohyXh-XneptP_ulfXf7bmAOzrMEc2KVkwNN579KgKtCVyezp5ye9yAz3jP5oLB1m7NWIkyPN55_RRmIwGFfOr7bkiBCrDdLSyMeLR2V8YvHaFJNKyg-IKzyId-fvoB9n40S4YiuF2lVgnR7dsI8X0yC0pkN1pvpamUU7VcgtOiQ=w80-h120-k-no"
+  ],
+  "price": "NPR 24.9K",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3245087,
+      27.7128456
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908132578a0a3ae944392"
+  },
+  "name": "Hyatt Regency Kathmandu",
+  "latlng": [
+    27.722082,
+    85.356928
+  ],
+  "type": "Hotels",
+  "star": "4.5",
+  "location": "Pani Tanki,  Kathmandu-6, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNh970mWnihqb6NYU0cylCwlpzYmNrg2goeEoDC=w138-h92-k-no"
+  ],
+  "price": "NPR 20.7K",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.356928,
+      27.722082
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908132578a0a3ae944394"
+  },
+  "name": "Hotel Shambala",
+  "latlng": [
+    27.7416417,
+    85.338437
+  ],
+  "type": "Hotels",
+  "star": "4.3",
+  "location": "Narayan Gopal Chowk, बाँसबारी सडक, Kathmandu-3, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNRws40ORCiPxLgjaa4M3wmn9KcMZy6lnc9WxLP=w137-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.338437,
+      27.7416417
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908142578a0a3ae944396"
+  },
+  "name": "OYO 123 Hotel Prince Plaza",
+  "latlng": [
+    27.7112133,
+    85.333678
+  ],
+  "type": "Hotels",
+  "star": "3.7",
+  "location": "Sano Gaucharan, Gyaneshwor Marg, Kathmandu-30, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNCsVciX9sxLM2FlmQ5mR52hnnyNGsvxeSZ95fo=w163-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.333678,
+      27.7112133
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908142578a0a3ae944398"
+  },
+  "name": "Sudha's Garden Home",
+  "latlng": [
+    27.722517,
+    85.3545881
+  ],
+  "type": "Hotels",
+  "star": "3.5",
+  "location": "Pani Tanki, महानकल रोड, Kathmandu-6, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEyGc-nEAA5_KuQkZk0M-8SKqDIFI0ZcLWpP_jfR792i0fu7WkSCV0RnRXqHKYhFZsabIObyGfLbvYJHWcQ549eTl0j1T5EL220AldnqjLDf4-cSke7kQZAdagITYwEuCMXHp6LXZpygGs5g2sK8F9kxK3lNyddjaSa4IiGojaCCc5Jn8X_56OQLQ=w122-h92-k-no"
+  ],
+  "price": "NPR 1,151",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3545881,
+      27.722517
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908142578a0a3ae94439a"
+  },
+  "name": "Arushi Boutique Hotel",
+  "latlng": [
+    27.7131059,
+    85.3094096
+  ],
+  "type": "Hotels",
+  "star": "4.6",
+  "location": "Chhetrapati, Kunphen Marg, Kathmandu-16, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPr7jpTuheVRsffpHUvRIZGJr7eyMqLHf3oy50l=w138-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3094096,
+      27.7131059
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908152578a0a3ae94439c"
+  },
+  "name": "ViaVia Boutique Hotel",
+  "latlng": [
+    27.7249671,
+    85.3559329
+  ],
+  "type": "Hotels",
+  "star": "4.6",
+  "location": "Shanti Nagar,  Kathmandu-6, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNGzRuhG4LAyUYriuRkg-5nrpj3JZ2jV_K4jxWk=w92-h92-k-no"
+  ],
+  "price": "NPR 5,147",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3559329,
+      27.7249671
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908152578a0a3ae94439e"
+  },
+  "name": "Aloft Kathmandu Thamel",
+  "latlng": [
+    27.715843,
+    85.3132159
+  ],
+  "type": "Hotels",
+  "star": "4.6",
+  "location": "Bhagwan Bahal,  Kathmandu-26, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEln2j-U99Ojc2oVTxMeoYLCoaeRMCaJdPaz_OER1f_CKsQRtMD3UxtsARblWmtpir5xPsXEhDx3wqwBbW2Zuf7h_qfFcWeVcJFsuE-681ETNWVD6VLoyH9rOO2Mtp0BIMMr5_hMgyxq8ipZ1EmB4bwTehUYxcN2_SLNrUVBBHDxV1A9tdZ_yPh=w138-h92-k-no"
+  ],
+  "price": "NPR 16.2K",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3132159,
+      27.715843
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908162578a0a3ae9443a0"
+  },
+  "name": "होटल टिबेट इन्टरनेसनल",
+  "latlng": [
+    27.7202617,
+    85.3595592
+  ],
+  "type": "Hotels",
+  "star": "4.4",
+  "location": "Baudha, चाबहिल-बौद्-जोरपाटी सडक, Kathmandu-6, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFopdPXR0ZMKaDyA-5OPxhC2ftuAVNzBTrXPzIeBfbr4kkex6vhQIxePAJbLGYuXqyLX3izSFSrMN3afyp5k8YS8FMlHxYrM8Dppjya8ZyS11oR6eQDJaxZWzC5WL1HWKBeWsZwCIGL9O9Vl0ylvsicIeECEp0HnvjSzhyzccIMK-37Vi1gEK1l=w138-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3595592,
+      27.7202617
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908162578a0a3ae9443a2"
+  },
+  "name": "Kathmandu Suite Home",
+  "latlng": [
+    27.715069,
+    85.3069934
+  ],
+  "type": "Hotels",
+  "star": "4.6",
+  "location": "Paknajol, Jogipakha Marg, Kathmandu-17, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMsLpVh6xCtT73LqyqYszacABMbE1CcUdZ2qkJd=w138-h92-k-no"
+  ],
+  "price": "NPR 6,703",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3069934,
+      27.715069
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908162578a0a3ae9443a4"
+  },
+  "name": "Flying Yak Kathmandu",
+  "latlng": [
+    27.7168341,
+    85.3114538
+  ],
+  "type": "Hotels",
+  "star": "4.8",
+  "location": "Thamel,  Kathmandu-26, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHP1tIjhtu3MjUSDxKVFELoV1ZcXxLDBMR2sR1JWRwVEqQmWLDlf0gmFseuZZCOz-2a-R46-ChXjiXWCKYQnUPnBJTf5kGYAMuMF5wDEt5nuv6LSYmkPqFgDHi0atvSsYeHrFhhNxFKQUdPjdqA05qIWiThJYIh2jMS6YakDFPKSH9iOh4SBFOkUw=w163-h92-k-no"
+  ],
+  "price": "NPR 3,039",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3114538,
+      27.7168341
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908172578a0a3ae9443a6"
+  },
+  "name": "Hyatt Place Kathmandu",
+  "latlng": [
+    27.6991539,
+    85.2891693
+  ],
+  "type": "Hotels",
+  "star": "4.5",
+  "location": "Chinnalata Marg, Kathmandu-13, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE2leoIywBFz1IcYvNjQsFSl13HbDbDdOjDoCYxwC3-NMHTrgmwaR6C6hmkLXs6AqfLFX7datE33NhWvcaWRGRWQhRgtw6l34KFkSWr5p98tmYhMX7iZsmtfef_xxXwZrxX673AzBQ-6HFolocn5RJ07BCfgdr4ufLmktfhWDkVtoTkv1QPE8BvMQ=w139-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.2891693,
+      27.6991539
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908172578a0a3ae9443a8"
+  },
+  "name": "Royal Empire Boutique Hotel",
+  "latlng": [
+    27.7232145,
+    85.3285449
+  ],
+  "type": "Hotels",
+  "star": "4.2",
+  "location": "Khursanitaar,  Kathmandu-4, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMLslwrpIIxNswx5BXCzypCL7qZMbb1NzLkn2sS=w138-h92-k-no"
+  ],
+  "price": "NPR 7,217",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3285449,
+      27.7232145
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908172578a0a3ae9443aa"
+  },
+  "name": "Royal Penguin Boutique Hotel",
+  "latlng": [
+    27.7119964,
+    85.3100614
+  ],
+  "type": "Hotels",
+  "star": "4.0",
+  "location": "Chhetrapati, J.P. Road, Kathmandu-16, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEY6C09cjZesyvoGVnLgdmlQaAPL_QoNczABIi9-zVWObM6MSZrmJauhKctZN7GXsuv-5NvI2qIVub2Z2YFxNChmKi4Ri4at46da95vdt9w-S_kpoDLORhS2BiYPLyM9V3QfqwCQHMgPlGLyCGdElMfQUIk1TK8Pk2FsbTPVmD-RtIQGS6PD2ng=w124-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3100614,
+      27.7119964
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908172578a0a3ae9443ac"
+  },
+  "name": "Hotel Barahi Kathmandu",
+  "latlng": [
+    27.713566,
+    85.3150667
+  ],
+  "type": "Hotels",
+  "star": "4.7",
+  "location": "Tridevi Sadak, Kathmandu-27, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPc7-9L2-LGhLxtE--AkE7PXk1jNNMYUTt34CcZ=w138-h92-k-no"
+  ],
+  "price": "NPR 14.8K",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3150667,
+      27.713566
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908182578a0a3ae9443ae"
+  },
+  "name": "Eco Inn",
+  "latlng": [
+    27.7242039,
+    85.3583428
+  ],
+  "type": "Hotels",
+  "star": "4.2",
+  "location": "Dhara Tole,  Kathmandu-6, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMp1rgThxb0q3O-kMDfu5MqXDcD2eucoSaQ5XwP=w122-h92-k-no"
+  ],
+  "price": "NPR 1,930",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3583428,
+      27.7242039
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908182578a0a3ae9443b0"
+  },
+  "name": "Fairfield by Marriott Kathmandu",
+  "latlng": [
+    27.7154597,
+    85.3143313
+  ],
+  "type": "Hotels",
+  "star": "4.3",
+  "location": "Bhagwan Bahal, Keshar Mahal Marg, Kathmandu-26, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipM8zjXZZ3O-MIATVbMnhbFpvBWWiUn8mHxYWMLo=w80-h120-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3143313,
+      27.7154597
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908182578a0a3ae9443b2"
+  },
+  "name": "Hotel Barahi Kathmandu",
+  "latlng": [
+    27.713566,
+    85.3150667
+  ],
+  "type": "Hotels",
+  "star": "4.7",
+  "location": "Tridevi Sadak, Kathmandu-27, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPc7-9L2-LGhLxtE--AkE7PXk1jNNMYUTt34CcZ=w138-h92-k-no"
+  ],
+  "price": "NPR 14.8K",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3150667,
+      27.713566
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908192578a0a3ae9443b4"
+  },
+  "name": "Fairfield by Marriott Kathmandu",
+  "latlng": [
+    27.7154597,
+    85.3143313
+  ],
+  "type": "Hotels",
+  "star": "4.3",
+  "location": "Bhagwan Bahal, Keshar Mahal Marg, Kathmandu-26, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipM8zjXZZ3O-MIATVbMnhbFpvBWWiUn8mHxYWMLo=w80-h120-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3143313,
+      27.7154597
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908192578a0a3ae9443b6"
+  },
+  "name": "The Dwarika's Hotel",
+  "latlng": [
+    27.7051976,
+    85.3423518
+  ],
+  "type": "Hotels",
+  "star": "4.6",
+  "location": "Pipple Bot, Battisputali Sadak, Kathmandu-9, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPn3R_ymofYbwGz7AuAbCPFpENaHbtWAimHp3df=w138-h92-k-no"
+  ],
+  "price": "NPR 53.6K",
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3423518,
+      27.7051976
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "676908192578a0a3ae9443b8"
+  },
+  "name": "Hotel Manang",
+  "latlng": [
+    27.717783,
+    85.3100094
+  ],
+  "type": "Hotels",
+  "star": "4.0",
+  "location": "Sorakhutte, Chaksibari Marg, Kathmandu-16, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHA7THAY8of_mP0yyYY-8v6LpB3mw-x-IIPWbwL5iT4W24X_zVork_fF7HeKds2IucLr3zAGjraEAh0ROA5xGg1vh4A1R9CRi3ptYglqawXbkRiRs2CFLsc_HgU03vhNpN4t6fSS-WOAReYCJ0dw_Y93a5lcrwq2JbVMhzTKfEkLQinS51V48yi=w139-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3100094,
+      27.717783
+    ]
+  }
+}]

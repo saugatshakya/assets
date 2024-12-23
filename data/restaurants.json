@@ -1,0 +1,750 @@
+[{
+  "_id": {
+    "$oid": "6769028e13855ae543d48cd1"
+  },
+  "name": "Meat and greet",
+  "latlng": [
+    27.7287888,
+    85.3523365
+  ],
+  "type": "Restaurants",
+  "star": "4.1",
+  "location": "Narayan Chok,  Budhanilakantha-10, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMNeE7VCPww8ElpWkpI6E7KgpOcmPNMLSrkq_wu=w198-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3523365,
+      27.7287888
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769028f13855ae543d48cd3"
+  },
+  "name": "Tomodachi ( ともだち) Restaurant",
+  "latlng": [
+    27.7308429,
+    85.3434184
+  ],
+  "type": "Restaurants",
+  "star": "4.2",
+  "location": "Dhumbarahi,  Kathmandu-4, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMCXbba_qsTQuzvbur7TufVTaiP4jG-91zxNpna=w194-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3434184,
+      27.7308429
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769028f13855ae543d48cd5"
+  },
+  "name": "Lavish Garden Restaurant",
+  "latlng": [
+    27.7241985,
+    85.3453525
+  ],
+  "type": "Restaurants",
+  "star": "4.4",
+  "location": "Anandanagar,  Budhanilakantha-9, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPMUrTK2mmKPjVZ1srYkOwxydo_VxQa2sedzsTk=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3453525,
+      27.7241985
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769028f13855ae543d48cd7"
+  },
+  "name": "Le Patio",
+  "latlng": [
+    27.7326269,
+    85.3460652
+  ],
+  "type": "Restaurants",
+  "star": "4.6",
+  "location": "Dhumbarahi,  Budhanilakantha-9, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPbXvE5H-96DHmn1_TBdkQrJ-rG0UJDI9AYwNQM=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3460652,
+      27.7326269
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769028f13855ae543d48cd9"
+  },
+  "name": "Galli Restro and Bar - Restaurant for Memories",
+  "latlng": [
+    27.726116,
+    85.3404287
+  ],
+  "type": "Restaurants",
+  "star": "4.8",
+  "location": "Dhumbarahi,  Kathmandu-4, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPz2XEj7abWH0h0Lx6vhiu3MJVDp6FG6Tjj6YQ7=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3404287,
+      27.726116
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769028f13855ae543d48cdb"
+  },
+  "name": "Haku multi cuisine dining",
+  "latlng": [
+    27.7245016,
+    85.349253
+  ],
+  "type": "Restaurants",
+  "star": "3.8",
+  "location": "Saraswati Nagar,  Kathmandu-7, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPcObuDDh_1oS546eY59sLksQkOGi5gsRIar2qv=w163-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.349253,
+      27.7245016
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029013855ae543d48cdd"
+  },
+  "name": "Dafe Night Food Delivery",
+  "latlng": [
+    27.7292701,
+    85.3454559
+  ],
+  "type": "Restaurants",
+  "star": "5.0",
+  "location": "Sukedhara Chowk,  Kathmandu-4, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMSqDKyb2QAQgYkQw2Czwy-g3J0WO498iO_glSx=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3454559,
+      27.7292701
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029013855ae543d48cdf"
+  },
+  "name": "Dhungedhara Restaurant & Bar Garden",
+  "latlng": [
+    27.7280898,
+    85.3437895
+  ],
+  "type": "Restaurants",
+  "star": "4.8",
+  "location": "Sukedhara Chowk, Mahakali Marga, Kathmandu-4, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipN9r-gsC8DEw4PYWzmGD-JiGZ0i3Ue1INcOUiKY=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3437895,
+      27.7280898
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029013855ae543d48ce1"
+  },
+  "name": "Gaga Restaurant",
+  "latlng": [
+    27.7250533,
+    85.3421543
+  ],
+  "type": "Restaurants",
+  "star": "4.1",
+  "location": "Dhumbarahi,  Kathmandu-4, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNCGPlkpaHSDdUZcFCY6ho-ASitKZNk0bsrbU81=w80-h106-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3421543,
+      27.7250533
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029113855ae543d48ce3"
+  },
+  "name": "Jugaad Restro",
+  "latlng": [
+    27.7316241,
+    85.3535847
+  ],
+  "type": "Restaurants",
+  "star": "5.0",
+  "location": "Shivapuri Chok,  Budhanilakantha-10, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "//maps.gstatic.com/tactile/pane/result-no-thumbnail-2x.png"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3535847,
+      27.7316241
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029113855ae543d48ce5"
+  },
+  "name": "Annyeong Chicken, Saraswotinagar Chabahil",
+  "latlng": [
+    27.7232728,
+    85.3491483
+  ],
+  "type": "Restaurants",
+  "star": "3.9",
+  "location": "Saraswati Nagar,  Kathmandu-7, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMTY28QZMoKW3hOmIU5CYrd3txXCvLz-p3idM5S=w204-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3491483,
+      27.7232728
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029113855ae543d48ce7"
+  },
+  "name": "Boleng Restaurant & Sekuwa Corner",
+  "latlng": [
+    27.7332236,
+    85.3513487
+  ],
+  "type": "Restaurants",
+  "star": "4.8",
+  "location": "Rudramati Chowk,  Budhanilakantha-9, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPP1DDsC2cb5E9T9or8RLTbyRasUS6xhtUWUVTC=w80-h119-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3513487,
+      27.7332236
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029213855ae543d48ce9"
+  },
+  "name": "Bhojan Unlimited- The House of Maharaja Thali, Kapan, Kathmandu",
+  "latlng": [
+    27.739644,
+    85.3534786
+  ],
+  "type": "Restaurants",
+  "star": "4.6",
+  "location": "Budhanilakantha-10, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipO5D0uxcHWJASx4qV3uaCpa2eOUboUwUytOc0iJ=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3534786,
+      27.739644
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029213855ae543d48ceb"
+  },
+  "name": "Bagaichā - Best Fine Dining Restaurant in Kathmandu",
+  "latlng": [
+    27.7203689,
+    85.3315526
+  ],
+  "type": "Restaurants",
+  "star": "4.3",
+  "location": "Bhatbhateni, Thirbum Sadak, Kathmandu-4, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNrqubwztdfCLeIfW0_2vJjCS5paJ_QN31dNeYe=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3315526,
+      27.7203689
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029213855ae543d48ced"
+  },
+  "name": "Walnut Bistro",
+  "latlng": [
+    27.7306402,
+    85.3272636
+  ],
+  "type": "Restaurants",
+  "star": "4.7",
+  "location": "Panipokhari, Do-Cha Marg, Kathmandu-3, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipORY6ILHeMny1jKMYyMAYRAgcbf1UTF8pnHCGSF=w175-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3272636,
+      27.7306402
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029313855ae543d48cef"
+  },
+  "name": "Bhojan Unlimited- Sano Bagaicha Family Restaurant and Playhouse, Nayabasti, Kathmandu",
+  "latlng": [
+    27.7130923,
+    85.359245
+  ],
+  "type": "Restaurants",
+  "star": "4.8",
+  "location": "Kathmandu-8, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMOFGKAE3vcWtgdv57yu7ERoTNnZBmv4HaRJAG9=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.359245,
+      27.7130923
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029313855ae543d48cf1"
+  },
+  "name": "Nina's",
+  "latlng": [
+    27.7367593,
+    85.3347762
+  ],
+  "type": "Restaurants",
+  "star": "4.3",
+  "location": "Narayan Tole, शान्ति प्रिया मार्ग, Kathmandu-3, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNvFhlP6WRv1QbVZ_GNbUUxiaaLYF-1MbBQwF5R=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3347762,
+      27.7367593
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029313855ae543d48cf3"
+  },
+  "name": "Grill & Bakes Family Restaurant",
+  "latlng": [
+    27.7407902,
+    85.3400517
+  ],
+  "type": "Restaurants",
+  "star": "4.4",
+  "location": "Milijuli Tol, कपन मार्ग, Kathmandu-3, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipONWLF160SpxeMi0a6VgqXFuRqNRSCWkgz1iiUF=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3400517,
+      27.7407902
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029413855ae543d48cf5"
+  },
+  "name": "Sichuan Restaurant",
+  "latlng": [
+    27.7231655,
+    85.3605108
+  ],
+  "type": "Restaurants",
+  "star": "4.4",
+  "location": "Dhara Tole, Hyatt - Boudha Marg, Kathmandu-6, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNgMnhVRggUGkpdhS1TXJlwXLsGaaUYWJlN0DdC=w80-h106-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3605108,
+      27.7231655
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029413855ae543d48cf7"
+  },
+  "name": "Tukche Thakali Kitchen",
+  "latlng": [
+    27.7173853,
+    85.3292672
+  ],
+  "type": "Restaurants",
+  "star": "3.8",
+  "location": "Bhrikuti Tole, गैरीधारा रोड, Kathmandu-1, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMmaGOIb7ybdYUJrlMWjtsj1jaQPzHcZJwymbQ5=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3292672,
+      27.7173853
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029413855ae543d48cf9"
+  },
+  "name": "Sichuan Cafe Restaurant",
+  "latlng": [
+    27.7250647,
+    85.3650031
+  ],
+  "type": "Restaurants",
+  "star": "4.6",
+  "location": "Phulbari Marg, Kathmandu-6, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipM6t_tqJrQ8tV0resxSBSi9bk4AJMxZP_MvCt8I=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3650031,
+      27.7250647
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029413855ae543d48cfb"
+  },
+  "name": "Boddhi Garden Vegetarian Restaurant",
+  "latlng": [
+    27.7378766,
+    85.3398941
+  ],
+  "type": "Restaurants",
+  "star": "4.1",
+  "location": "Ganesh Basti,  Kathmandu-4, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipO_AgJ3NbtRF-Fozw9SKZA9nPWJNVjYX_CzGQ8B=w163-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3398941,
+      27.7378766
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029513855ae543d48cfd"
+  },
+  "name": "Lavie Garden",
+  "latlng": [
+    27.7263941,
+    85.3643663
+  ],
+  "type": "Restaurants",
+  "star": "4.6",
+  "location": "Tathaghat Marg, Kathmandu-6, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipO0uLHwbvux7g7Ut_os8H9X66c2tpzZglOOE52h=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3643663,
+      27.7263941
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029513855ae543d48cff"
+  },
+  "name": "Sesamé at Hyatt Regency Kathmandu",
+  "latlng": [
+    27.7220336,
+    85.3571167
+  ],
+  "type": "Restaurants",
+  "star": "4.8",
+  "location": "Pani Tanki,  Kathmandu-6, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipO0gXKy2vQFtCJ1TJVEc_i0QGn7fFdSa9z5-bgl=w136-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3571167,
+      27.7220336
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029613855ae543d48d01"
+  },
+  "name": "Luma Restaurant",
+  "latlng": [
+    27.7203557,
+    85.3603562
+  ],
+  "type": "Restaurants",
+  "star": "3.8",
+  "location": "Baudha,  Kathmandu-6, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNbUNnneBol8TcY5vaFDl6_K7YEY-2wKNjF79SB=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3603562,
+      27.7203557
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029613855ae543d48d03"
+  },
+  "name": "Elements Restaurant & Bar",
+  "latlng": [
+    27.7268261,
+    85.3309927
+  ],
+  "type": "Restaurants",
+  "star": "4.4",
+  "location": "बालुवटार, दूतावास मार्ग, Kathmandu-4, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipNJ0DkFjj0pEeWsbgeggslqQhbC1xw9dKxI8j9A=w138-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3309927,
+      27.7268261
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029613855ae543d48d05"
+  },
+  "name": "Utpala Cafe",
+  "latlng": [
+    27.7247912,
+    85.3621381
+  ],
+  "type": "Restaurants",
+  "star": "4.4",
+  "location": "Kathmandu-6, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMHn1BN1O8Eamglo-wiTEAtKrmSwQEj27TEktO3=w163-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3621381,
+      27.7247912
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029713855ae543d48d07"
+  },
+  "name": "Cabana By Sky High",
+  "latlng": [
+    27.7205487,
+    85.3195558
+  ],
+  "type": "Restaurants",
+  "star": "3.8",
+  "location": "Lazimpat, Kumari Mai Marg, Kathmandu-2, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipPrOAJ8w9T2IB-2tr8LIUmQb7Cj9XdV8rBlce44=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3195558,
+      27.7205487
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029713855ae543d48d09"
+  },
+  "name": "RUMI's Bistro",
+  "latlng": [
+    27.7392794,
+    85.3488855
+  ],
+  "type": "Restaurants",
+  "star": "4.2",
+  "location": "गोल्फुटार आवासीय सडक, Budhanilakantha-8, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMaYrQ0VR2wFncF16HPVIGJm0e0juFBACsb58KI=w163-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3488855,
+      27.7392794
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6769029713855ae543d48d0b"
+  },
+  "name": "Krua Thai Nepal Restaurant",
+  "latlng": [
+    27.7163384,
+    85.3310505
+  ],
+  "type": "Restaurants",
+  "star": "4.3",
+  "location": "Tangal, Tangal Marga, Kathmandu-5, Kathmandu,  Bagmati Pradesh",
+  "photos": [
+    "https://lh5.googleusercontent.com/p/AF1QipMCaOMrjnaVadWyuh5Zzmc3hCRABIoifOPslIRm=w122-h92-k-no"
+  ],
+  "price": null,
+  "date": "2024-12-23",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      85.3310505,
+      27.7163384
+    ]
+  }
+}]
