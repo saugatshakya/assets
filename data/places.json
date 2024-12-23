@@ -1,153 +1,304 @@
 [
   {
+    "name": "Bouddha",
+    "location": "Kathmandu",
+    "history": "Boudha Stupa, a UNESCO World Heritage Site, stands as a blend of Newar, Tamang, Sherpa, and Tibetan cultures, making it a unique symbol of the rich cultural and spiritual diversity of the Kathmandu Valley. Located in the northeastern part of Kathmandu, this massive stupa is one of the largest in the world and serves as a major pilgrimage site for Buddhists from different traditions. The stupa's grand dome, adorned with the Buddha's all-seeing eyes, reflects the region's deep Buddhist heritage. Surrounding the stupa are numerous monasteries, shrines, and shops, creating a lively atmosphere where local traditions and rituals thrive. The area is especially significant during major Buddhist festivals like Buddha Jayanti and the Boudha Stupa Jatra, when devotees from diverse communities come together to celebrate and perform rituals. The cultural richness of Boudha makes it not only a religious hub but also a cultural crossroads, offering visitors a glimpse into the harmonious blending of various Buddhist traditions.\nHistory\nBoudha Stupa is one of the largest and most significant Buddhist sites in Nepal. Its origin remains unclear, with various historical sources offering different accounts. According to Nepalese records, the stupa was constructed during the Licchavi period. Gopal Raj Vansavali, a historical chronicle, credits King Shiva Dev with the construction of the stupa, while Mary Slusser suggests that King Mandeva may have been involved in its initial erection, with Shiva Dev later renovating it. Tibetan sources associate Boudha with King Songtsen Gampo, who is believed to have initiated the establishment of Buddhist temples, including the one at Boudha. After the Chinese occupation of Tibet in 1959, Boudha became a key center for Tibetan exiles, significantly contributing to its religious and cultural development.\n\nLegends of Boudha Stupa\n1. Kathmandu Legend: A prominent legend associated with the Boudha Stupa originates from Kathmandu during the Licchavi period. According to the story, King Dharmadev constructed a stone spout near his palace, but it mysteriously dried up, causing a severe drought in the kingdom. Distressed, the king consulted astrologers, who advised him to perform a human sacrifice to bring an end to the drought. They instructed the king to sacrifice someone who possessed all thirty-two virtues, a rare attribute. After an extensive search, it was discovered that only the king and his son, Manadeva, possessed these virtues.\nReluctant to sacrifice his son, the king decided to offer his own life and instructed Manadeva to decapitate a hooded stranger at the stone spout the next morning. However, when Manadeva returned to the palace, he realized, to his horror, that he had unwittingly killed his father. Filled with grief and guilt, Manadeva renounced the throne and chose to live a life of seclusion.\nAs time passed, the kingdom continued to suffer from the drought. In his despair, Manadeva had a vision in which Vajra Yogini appeared to him, instructing him to release a bird and build a stupa at the spot where the bird landed. Following this vision, Manadeva released a bird, and it landed at the site of what would become the Boudha Stupa. The construction of the stupa was difficult due to a lack of water to mix the clay. However, the laborers ingeniously collected dew using large sheets of cloth, which allowed them to complete the stupa. The use of dew, known as \"khasu ti\" in Nepal Bhasa, led to the stupa being named Khasu Ti Chaitya, a name that later evolved into Khasti Chaitya.\n2. Tibetan Legend: A different, yet equally significant, legend comes from Tibetan Buddhism. According to this account, Avalokitesvara, the Bodhisattva of Compassion, had vowed to release all sentient beings from suffering. After years of efforts, Avalokitesvara looked down from his palace, only to find that many beings continued to suffer, despite his best efforts. Overcome by despair, Avalokitesvara wept, and his tears fell to the ground. These teardrops were believed to have transformed into the daughters of Indra, the king of the gods.\nOne of these daughters, Apurna, was born as a human named Jadzima, into a humble family. As she grew up, Jadzima worked hard to support her children and eventually saved enough money to fulfill a noble aspiration—to build a grand stupa that would help alleviate suffering. Despite opposition from the local nobility, who were jealous of her plans, the king granted her permission to build the stupa. The stupa came to be known as \"Jharung Khasor,\" meaning \"permission to build,\" symbolizing the king’s approval despite the resistance from the powerful elites. This stupa, built with the intention to end suffering, continues to serve as a significant religious and cultural landmark.",
+    "images": [
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Bouddha/BoudhaStupa.png",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Bouddha/BoudhaStupa1.png"
+    ],
+    "latlng": [
+      27.721433, 85.362018
+    ],
+    "monuments": [
+      {
+        "name": "Ajima Temple",
+        "location": "Bouddha",
+        "history": "The Ajima Temple, located near Boudha Stupa, is a small, single-room structure with a copper roof and ceramic walls, featuring a steel lattice screen at its entrance. Inside, it holds a silver deity, often covered with cloth, depicted sitting with a human corpse on her lap. Above her, she is shown in a fierce pose, holding the same corpse. This deity, known by different names across communities, is seen as a protective goddess. In Tibetan Buddhism, she is referred to as Jadzima, while Newars call her Ajima, meaning \"Grandmother.\" Hindus may associate her with deities like Sitala or Chamunda, fierce figures often depicted consuming corpses. Though considered wrathful, Ajima is seen as a protector, granting power to her devotees. The temple's origins and interpretations vary, with some connecting her to Hariti, a demoness who later became a protector of Buddha's shrines.",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Bouddha/AjimaTemple1.png",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Bouddha/AjimaTemple.png"
+        ],
+        "latlng": [
+          27.721829, 85.361817
+        ],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/watch?v=NLzhmuTe2K4&list=PLmTt9hYZOATBi87Ysj1Ak2-pcW9b0FV3I"]
+      },
+      {
+        "name": "Ghyoilisang Pond (Peace Park)",
+        "location": "Bouddha",
+        "history": "Ghyoilisang Pond, now known as Peace Park, is located northwest of Boudha Stupa and covers an area of 15,289.80 sq. ft. Historically, it is believed that soil from the Boudha Stupa construction site was removed, gradually forming the pond. In recent years, the site has been transformed into Peace Park, a place of spiritual and cultural significance. In 2073 B.S., a statue of Guru Rinpochhe was placed at the center of the pond, and additional monuments, including chaityas and deity statues, have been added. The Peace Park now offers a tranquil space blending natural beauty with spiritual heritage.",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Bouddha/GhyoiLisangPond.png"
+        ],
+        "latlng": [27.722366, 85.361403],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null
+      },
+      {
+        "name": "Jamchen Monastery",
+        "location": "Bouddha",
+        "history": "Jamchen Monastery, located in the Boudha Stupa area, is the first monastery encountered when circling the stupa from the main gate. It belongs to the Sakyapa school of Himalayan Buddhism and is also known as Mustang Monastery, as it was funded by the Raja (King) of Mustang. The monastery was constructed starting in 1982 on land donated by the niece of the late Chini Lama. A three-story statue of Jampa (Maitreya or Future Buddha) is housed inside. The monastery's grand inauguration in 1986 was attended by former King Birendra of Nepal and unexpectedly honored by former U.S. President Jimmy Carter. According to some sources, it was founded by Venerable Chyopge Thichen Rinpoche and enshrines a statue of Trik Ma Buddha  (Gyalwa Jampa).",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Bouddha/JhamchenLakhangMonastery1.JPG",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Bouddha/JhamchenLakhangMonastery.JPG"
+        ],
+        "latlng": [
+          27.721484, 85.361385
+        ],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null
+      },
+      {
+        "name": "Guru Lhakhang Monastery",
+        "location": "Bouddha",
+        "history": "The Guru Lhakhang Monastery is a significant spiritual site of the Nyingma tradition. Located to the north of the stupa, this monastery, also referred to by locals as the \"Tamang Gumba\", is the oldest in the area adhering to the Nyingma and Jhyang Ter traditions. Within its sacred space are enshrined revered statues of Amitabha Buddha, Arya Avalokiteshvara, Guru Padmasambhava, and other prominent figures of Himalayan Buddhism. Visitors to the monastery can enjoy a breathtaking view of the majestic Boudha Stupa from its rooftop, adding to the monastery's spiritual and visual appeal.",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Bouddha/GuruLakhangMonastery.png"
+        ],
+        "latlng": [
+          27.722041, 85.362062
+        ],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null
+      },
+      {
+        "name": "Kyidong Tashi Samteling Monastery",
+        "location": "Bouddha",
+        "history": "Kyidong Tashi Samtenling Monastery, located near Boudha Stupa in Kathmandu, is the first Tibetan monastery established in the area after the Tibetan upheaval of 1960. It serves as a spiritual center, dedicated to preserving Tibetan traditions, rituals, and teachings. The monastery focuses on the tantric practices of the Geluk tradition, emphasizing rituals related to the three main tantric deities. It is known for its preservation of monastic arts, including ritual decoration, chanting, religious music, and tantric ceremonies. The monastery also provides modern education for its younger monks, offering courses in moral education and languages. It currently houses hundreds of monks, many from Tibet and Nepal’s remote regions like Rasuwa, Manang, and areas with Sherpa and Tamang communities.",
+        "images": null,
+        "latlng": [
+          27.721733, 85.362415
+        ],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null
+      },
+      {
+        "name": "Dilyak Yevam (1000 Buddha's Monastery) (Palri Tashi Migyur Dorje Gyaltsen Ling)",
+        "location": "Bouddha",
+        "history": "Located to the north-east of the Boudha Stupa, on the way to Phulbari, Dilyak Yevam Monastery, also known as Dhapsang Monastery, was founded by Venerable Rinpoche Dazang Ngeden Chhoeki Ngima Palsangpo in 1966 A.D. It follows the Kagyu tradition of Himalayan Buddhism and is renowned for housing statues of a thousand Buddhas. Regular Dharma rituals are performed daily, ensuring the continuation of spiritual practices for the community.",
+        "images": null,
+        "latlng": [
+          27.721440, 85.362551
+        ],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null
+      }
+    ],
+    "droneView": null,
+    "model": null,
+    "virtualTour": null,
+    "videos":["https://www.youtube.com/watch?v=VTLDCM6bMio&list=PLmTt9hYZOATBi87Ysj1Ak2-pcW9b0FV3I"]
+  },
+  {
     "name": "Swoyambhu Mahachaitya",
     "location": "Kathmandu",
     "history": "The Swoyambhu Stupa is situated to the northwest of Kathmandu, atop a green hill known by various names: 'Gau Puche Parbat', 'Padmagiri' and 'Vajrakutta Parbat'. Nearby is Manjushree Hill, also referred to as 'Gau Singhe Parbat'. These hills are named 'Gau Singhe' and 'Gau Puche' because, from Nagarjun Hill, their shapes resemble a cow. Manjushree Hill appears as a cow's horn, while Swoyambhu Hill resembles the cow's tail.\nThe Swoyambhu Stupa, estimated to be over 1,500 years old, is a highly revered landmark in the Kathmandu Valley. The term 'Swoyambhu' in Nepal Bhasa translates to 'self-sprung' or 'self-manifested'. The most common route to the summit involves climbing 365 steps from the front entrance. Alternatively, the rear entrance, accessible by car or scooter, requires only a few steps to reach the top. The site’s integration of Hindu and Buddhist elements creates a distinctive and harmonious fusion of traditions that is seldom encountered elsewhere. (Buddhacharya, A. M. (2024, June 13). Insights on Swoyambhu Stupa [Interview with a local cultural expert].)\n● Mythology of Swoyambhu\nAccording to the Swoyambhu Purana, the Kathmandu Valley was once a vast and beautiful lake. When Vipaswi Buddha arrived, he planted a lotus seed at the site where the Swoyambhu Stupa now stands. The seed grew into a magnificent lotus with a thousand petals, its radiant light was visible from afar and drawing many pilgrims. Due to its luminous quality, the site came to be known as Jyoti Chaitya or Ratna Chaitya.\nImpressed by the divine light of the lotus, Manjushri believed that draining the lake would make the site more accessible to human pilgrims. Using his great sword, he carved a gorge in the surrounding mountains, allowing the water to drain and revealing the valley that is now Kathmandu. As the lake dried up, the lotus emerged on the hill, which eventually became the location of the Swoyambhu Stupa.\nMany years later, Shantikaracharya, who came to Nepal on pilgrimage, recognized the need to preserve this sacred light. To honor and protect the spot where the lotus had once bloomed, he is believed to have constructed the stupa. (Buddhacharya, A. M. (2024, June 13). Insights on Swoyambhu Stupa [Interview with a local cultural expert].)\n● History of Swoyambhu\nAccording to the Gopal Raj Vamsavali, a 14th-century manuscript from Nepal, the Swoyambhu Stupa was established by King Vrsadeva, the great-grandfather of King Manadeva (464–505 CE), during the Licchavi period in the early 5th century CE. This is supported by a damaged stone inscription at the site, which records that King Manadeva commissioned further work in 640 CE. Additionally, Emperor Ashoka is believed to have visited the site in the 3rd century BCE and constructed an early temple, which subsequently fell into disrepair for reasons that remain unknown. In 1349, during the first Muslim invasion of Kathmandu, the Swoyambhu Stupa was completely destroyed. It was subsequently repaired. Following the construction of the main stupa, additional monuments were added over time by various dynasties. The eastern stairway was built in the 17th century by King Pratap Malla, a prominent ruler of Kathmandu. (Vredeveld, n.d.)\nIn 1918 CE, with authorization from the Nepalese government, the 14th major renovation of Sri Swoyambhu Mahachaitya was undertaken. This restoration involved replacing the harmika and repairing the 13 bronze disks. The work was completed over a period of three years, finishing in 1921 CE. (Tuladhar, 2021)\nThe 15th renovation of Sri Swoyambhu MahaChaitya occurred between 2008 and 2010, resembling a massive jigsaw puzzle. Over 30,000 pieces were carefully removed, repaired, cleaned, and reassembled using more than 100,000 nails. Additionally, all the metal plates received a fresh layer of gold, utilizing 20 kg of the precious metal is one of the largest gold restoration projects ever undertaken. (Parashar, 2010)\n\n● Buddhacharya Family\nThe Buddhacharya family descends from four legendary brothers tasked with preserving the traditions, norms, and values of Swoyambhu, as designated by Shantikar Acharya. The community is divided into four lineages—referred to as \"KA: WA:\"—which trace their roots back to these brothers, who established the clan centuries ago. Together, these lineages encompass 30 families, each representing the legacy of one of the four brothers. Each group has its own leader, guiding their members in honoring their shared heritage. (Buddhacharya et al., 2019)",
     "images": [
-      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/swoyambhunath3.png",
-      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/swoyambhunath1.jpg",
-      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/swayambhunath2.png"
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/swoyambhunath3.png",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/swoyambhunath1.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/swayambhunath2.png"
     ],
-    "latlng": [27.714918, 85.29055599999998],
+    "latlng": [
+      27.714918,
+      85.29055599999998
+    ],
     "monuments": [
       {
         "name": "Amitabha Buddha",
         "location": "Swoyambhu Mahachaitya",
         "history": "Amitabha Buddha, one of the Five Dhyani Buddhas, represents the cosmic element of fire and is situated facing west within the stupa. Depicted in red, Amitabha embodies the purified form of desire and is commonly symbolized by a peacock. The peacock, which consumes poisonous plants yet reveals a vibrant and radiant tail, represents Amitabha Buddha’s power to alleviate suffering and transform negativity into enlightenment.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/AmitabhaBuddha.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/AmitabhaBuddha.png"
         ],
-        "latlng": [27.714945, 85.29026199999998],
+        "latlng": [
+          27.714945,
+          85.29026199999998
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/AmitabhaBuddha.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/AmitabhaBuddha.glb",
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/igvQtV3on80"]
       },
       {
         "name": "Ratnasambhava Buddha",
         "location": "Swoyambhu Mahachaitya",
         "history": "Ratna Sambhava Buddha, one of the Five Dhyani Buddhas, represents the cosmic element of earth and is situated on the southern side of the stupa. Depicted in yellow, he performs the Varada Mudra with his right hand, symbolizing the granting of wishes, while holding a Cintamani jewel in his left hand, which rests on his lap. Seated on a horse throne, Ratna Sambhava Buddha embodies dynamic energy and the capacity to assist beings with great vigor, representing the purified form of pride.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/RatnasambhavaBuddha.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/RatnasambhavaBuddha.png"
         ],
-        "latlng": [27.714817, 85.290369],
+        "latlng": [
+          27.714817,
+          85.290369
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/RatnasambhavaBuddha.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/RatnasambhavaBuddha.glb",
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/5041bVnzqdg"]
       },
       {
         "name": "Amoghasiddhi Buddha",
         "location": "Swoyambhu Mahachaitya",
         "history": "Amoghasiddhi Buddha, one of the Five Dhyani Buddhas, represents the cosmic element of air and is depicted in green, facing north within the stupa. He is symbolized by the Garuda, which signifies his ability to perceive and transcend delusions from a distance. Performing the Abhaya Mudra, Amoghasiddhi Buddha embodies fearlessness. He is also depicted with a canopy of snakes above his head.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/AmoghashidhiBuddha.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/AmoghashidhiBuddha.png"
         ],
-        "latlng": [27.715036, 85.290393],
+        "latlng": [
+          27.715036,
+          85.290393
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/AmoghashidhiBuddha.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/AmoghashidhiBuddha.glb",
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/0HOKoOPh8Ew"]
       },
       {
         "name": "Aksobhya Buddha",
         "location": "Swoyambhu Mahachaitya",
         "history": "Akshobhya Buddha, one of the Five Buddhas, represents the cosmic element of water and is positioned on the eastern side of the stupa. Depicted in blue, he performs the Earth-touching gesture known as Bhu Sparsha Mudra. Seated on an elephant throne, Akshobhya Buddha symbolizes his unwavering commitment to his Bodhisattva vows. ",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/AkshyobhaBuddha.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/AkshyobhaBuddha.png"
         ],
-        "latlng": [27.714905, 85.29051800000002],
+        "latlng": [
+          27.714905,
+          85.29051800000002
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/AkshobhyaBuddha.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/AkshobhyaBuddha.glb",
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/AKbus-h8Gf4"]      
       },
       {
         "name": "Vairochana Buddha",
         "location": "Swoyambhu Mahachaitya",
         "history": "Vairochana Buddha, one of the Five Buddhas, represents the cosmic element of ether. While he is usually enshrined in the sanctum of a stupa, at Swoyambhu, Vairochana Buddha is situated between Akshobhya and Ratnasambhava. Depicted in white, he holds his hands in front of his chest, with the tips of his thumb and forefinger touching, in a gesture known as the Bodhyanga mudra or Dharma Chakra Parvartana Mudra. His symbol is a lion, embodying the powerful roar of wisdom that dispels ignorance. ",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/VairochanaBuddha.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/VairochanaBuddha.png"
         ],
-        "latlng": [27.714949, 85.29051800000002],
+        "latlng": [
+          27.714949,
+          85.29051800000002
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/VairochanaBuddha.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/VairochanaBuddha.glb",
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/oR4Gp4PRFEI"]
       },
       {
         "name": "Vajradhatesvari Tara",
         "location": "Swoyambhu Mahachaitya",
         "history": "The four Taras originate from Vajradhatesvari, who resides in the central east section of the chaitya in an unadorned stone shrine, symbolizing emptiness (Sunyata). She is also the female consort of Vairochana Buddha.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/VajradhatiTara.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/VajradhatiTara.png"
         ],
-        "latlng": [27.714875, 85.29050799999999],
+        "latlng": [
+          27.714875,
+          85.29050799999999
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/VajradhatiTara.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/VajradhatiTara.glb",
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/9c9xxTg4AvU"]
       },
       {
         "name": "Saptalochani Tara",
         "location": "Swoyambhu Mahachaitya",
         "history": "Saptalochani Tara is a vital guardian of Vajrayana teachings, especially the termas and inner tantras. She is located in the southeast corner of the stupa and is depicted in blue. Additionally, she is the female consort of Aksobhya Buddha.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/SaptalochaniTara.jpg"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/SaptalochaniTara.jpg"
         ],
-        "latlng": [27.714995, 85.29049299999997],
+        "latlng": [
+          27.714995,
+          85.29049299999997
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/SaptalochaniTara.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/SaptalochaniTara.glb",
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/nnqFuDu9HdI"]
       },
       {
         "name": "Mamaki Tara",
         "location": "Swoyambhu Mahachaitya",
         "history": "Mamaki is the guardian of secret mantras and is esteemed as \"the mother of all living beings in the universe,\" with her own powerful mantra remaining concealed. Positioned in the stupa's northeast corner and depicted in yellow, she is the female consort of Ratna Sambhava.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/MaamakiTara.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/MaamakiTara.JPG"
         ],
-        "latlng": [27.714833, 85.29047000000003],
+        "latlng": [
+          27.714833,
+          85.29047000000003
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/MaamakiTara.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/MaamakiTara.glb",
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/wA3EGj1YwsM"]
       },
       {
         "name": "Padmini Tara",
         "location": "Swoyambhu Mahachaitya",
         "history": "Padmini is revered for her ability to resolve love-related difficulties and  is believed to captivate both men and women. Reciting her mantra 10,000 times is said to fulfill desires. Positioned in the stupa's southwest corner and depicted in red, she is the female consort of Amitabha Buddha.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/PadhmaniTara.jpg"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/PadhmaniTara.jpg"
         ],
-        "latlng": [27.714848, 85.290303],
+        "latlng": [
+          27.714848,
+          85.290303
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/PadhmaniTara.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/PadhmaniTara.glb",
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/RCMpOezttTE"]
       },
       {
         "name": "Arya Tara",
         "location": "Swoyambhu Mahachaitya",
         "history": "Arya Tara, depicted in green, is a compassionate figure often shown seated on a lotus throne, ready to offer comfort and protection. Positioned on the northwest side of the stupa, she holds closed blue lotuses, symbolizing purity and power. Arya Tara is also the female consort of Amoghsiddhi.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/AaryaTara.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/AaryaTara.png"
         ],
-        "latlng": [27.715004, 85.2903],
+        "latlng": [
+          27.715004,
+          85.2903
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/AaryaTara.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/AaryaTara.glb",
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/JR7a5HqyUwg"]
       },
       {
         "name": "Harmika",
         "location": "Swoyambhu Mahachaitya",
         "history": "It is the cubical structure above the dome. Where there are eyes on each side with a Buddhism symbol for infinite continuity in search of Nirvana. These eyes are symbolic of God’s all-seeing perspective. Between the eyes, there is no nose but a symbol of the Nepali number one, representing the singular path to enlightenment through Buddhism.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/harmika.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/spart.jpg"
         ],
-        "latlng": [27.714921, 85.29039],
+        "latlng": [
+          27.714921,
+          85.29039
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -158,9 +309,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "The Halla Paau is a pentagonal structure featuring figures of the Five Buddha Family, each in unique postures, arranged at the four cardinal directions.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/halla_paau.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/halla_paau.png"
         ],
-        "latlng": [27.714921, 85.29039],
+        "latlng": [
+          27.714921,
+          85.29039
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -171,9 +325,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "The hidden wooden pillars are made from a unique type of wood found near the Swoyambhu hills. This pillar is encased within the 13 Bhumi.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/pataka.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/spart.jpg"
         ],
-        "latlng": [27.714921, 85.29039],
+        "latlng": [
+          27.714921,
+          85.29039
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -184,9 +341,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Above the Harmika, thirteen tiers of tapering circular rings represent the thirteen heavens or the Bodhisattvas' achievements. Made of wood and supported by wooden pillars, these rings are suspended without touching the central pillar, which is now gilded in gold.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/triyodasha_bhuvana.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/spart.jpg"
         ],
-        "latlng": [27.714921, 85.29039],
+        "latlng": [
+          27.714921,
+          85.29039
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -197,9 +357,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Above the Triyodasha Bhuvana is a hidden crystal jewel, or mani, discovered by two Newar sisters from Patan on the eastern stairway to Swoyambhu, where it was initially covered in cow dung. After one sister suggested taking it home, the jewel fell, prompting them to return it to Swoyambhu.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/mani.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/spart.jpg"
         ],
-        "latlng": [27.714921, 85.29039],
+        "latlng": [
+          27.714921,
+          85.29039
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -210,9 +373,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "The uppermost part of the stupa is the Utnish, a pinnacle crowned with an umbrella adorned with tassels, which gives the stupa its unique and distinctive feature.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/utnish_pinnacle.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/spart.jpg"
         ],
-        "latlng": [27.714921, 85.29039],
+        "latlng": [
+          27.714921,
+          85.29039
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -223,9 +389,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "At the top of the eastern staircase stands an impressive golden vajra, positioned on the eastern side of the main stupa. Locally known as the VajraDhatu Mandala and also referred to as the DharmaDhatu Mandala, this mandala features twelve animals that symbolize the astrological cycle.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/DharmadhatuMandala.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/DharmadhatuMandala.JPG"
         ],
-        "latlng": [27.7149, 85.29053699999997],
+        "latlng": [
+          27.7149,
+          85.29053699999997
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -236,35 +405,46 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Pratappur is situated on the north eastern side of the main Swoyambhu stupa, built in the name of King Pratap Malla himself in N.S 775. It was destroyed by fire in August 2003, struck by lightning in February 2011, and damaged in the 2015 earthquake. Rebuilt with government support, it was completed in 2019.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Pratappur.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/Pratappur.JPG"
         ],
-        "latlng": [27.714978, 85.29057899999998],
+        "latlng": [
+          27.714978,
+          85.29057899999998
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
-        "virtualTour": null
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/Ul5TRhOLbC4"]
       },
       {
         "name": "Anantapur",
         "location": "Swoyambhu Mahachaitya",
         "history": "Anantapur, located southeast of the main Swoyambhu stupa, was built in honor of Ananta Priya, the second queen of King Pratap Malla. Damaged in the 2015 earthquake, it was rebuilt and completed in 2019.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Anantapur.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/Anantapur.JPG"
         ],
-        "latlng": [27.714743, 85.290482],
+        "latlng": [
+          27.714743,
+          85.290482
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
-        "virtualTour": null
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/lmqEjQByYoM"]
       },
       {
         "name": "10th Shamarpa Bell",
         "location": "Swoyambhu Mahachaitya",
         "history": "The bell was donated by the 10th Shamarpa, Mipam Chodrup Gyamtso, at Swayambhu in 1791. Located beside the main entrance to the Swayambhu Stupa, it expresses gratitude to the dharmakaya and is presented as a beautiful offering.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/10thShamarpaBell.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/10thShamarpaBell.JPG"
         ],
-        "latlng": [27.714807, 85.29049099999997],
+        "latlng": [
+          27.714807,
+          85.29049099999997
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -275,77 +455,102 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "A modest east-facing temple in front of the Karmaraja monastery to the east of Nagapura. The shrine contains a stone image of Pavan Bhairav in sukhasana with his consort. It was founded by King Pratapa Malla in N.S.773.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/PavanBhairav.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/PavanBhairav.JPG"
         ],
-        "latlng": [27.715008, 85.29053399999998],
+        "latlng": [
+          27.715008,
+          85.29053399999998
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
-        "virtualTour": null
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/3vGfSLV5zQs"]
       },
       {
         "name": "Harati Maa Temple",
         "location": "Swoyambhu Mahachaitya",
         "history": "A traditional Nepali tiered temple dedicated to the goddess Hariti, also known as Ajima. Hariti is associated with smallpox and is worshipped for protection.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/HaratiMaa.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/HaratiMaa.png"
         ],
-        "latlng": [27.715032, 85.29021699999998],
+        "latlng": [
+          27.715032,
+          85.29021699999998
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
-        "virtualTour": null
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/jQYWqEAObOk"]
       },
       {
         "name": "Vayupur-Wind",
         "location": "Swoyambhu Mahachaitya",
         "history": "Located in the southwest corner of Swoyambhu Mahachaitya, this shrine is dedicated to the element of air. It prays for the removal of obstacles and disasters caused by wind.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/vayupur.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/vayupur.png"
         ],
-        "latlng": [27.714737, 85.290164],
+        "latlng": [
+          27.714737,
+          85.290164
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
-        "virtualTour": null
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/JDdexuCWl0M"]
       },
       {
         "name": "Agnipur",
         "location": "Swoyambhu Mahachaitya",
         "history": "Located in the northwest corner of Swoyambhu Mahachaitya, Agnipur features a dome with the red face of Agni Bhairava. It protects against fire-related disasters, with the shrine repainted annually on Kartik Purnima.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Agnipur.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/Agnipur.JPG"
         ],
-        "latlng": [27.715266, 85.29000400000001],
+        "latlng": [
+          27.715266,
+          85.29000400000001
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Agnipur.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/Agnipur.glb",
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/LxIsKiW8dk0"]
       },
       {
         "name": "Nagpur",
         "location": "Swoyambhu Mahachaitya",
         "history": "Nagpur, also known as Basingaah, is a rectangular pit in front of the Amoghasidi Buddha niche. It symbolizes the water spirit and ensures good rainfall for harvests.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Nagpur.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/Nagpur.JPG"
         ],
-        "latlng": [27.715055, 85.290506],
+        "latlng": [
+          27.715055,
+          85.290506
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Nagpur.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/Nagpur.glb",
+        "virtualTour": null,
+        "videos":[
+          "https://www.youtube.com/shorts/eecTBRLwHEU"
+        ]
       },
       {
         "name": "Basundhara Goddess (Vasupur)",
         "location": "Swoyambhu Mahachaitya",
         "history": "Located behind the Anantapur temple, Basundhara Mandir is consecrated by Guru Shantikaracharya. Worshiping here is believed to bring abundant crops.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basundhara.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/Basundhara.JPG"
         ],
-        "latlng": [27.714696, 85.290435],
+        "latlng": [
+          27.714696,
+          85.290435
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Basundhara.glb",
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/Basundhara.glb",
         "virtualTour": null
       },
       {
@@ -353,9 +558,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Shantipur, located northwest of the main stupa, is also known as 'Akashpur' and 'Patalpur.' Originally a meditation cave, it holds significance in Swoyambhu's lore, symbolized by the 'Lotus flower' marking the stupa's origin. Hem Raj Shakya notes a tradition where people wrote letters to deceased loved ones, entrusted to Shantipur priests, who alone could enter the sacred space. This practice, held during 'Akadshi' and 'Dashami' in Krishna Paksha, was believed to bring peace to the departed. The exact date of Shantipur's establishment is uncertain, but it is believed to have been built by Shantikar Acharya, a revered Tantric master. According to legend, he has been meditating in an underground chamber since the 5th century.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Shantipur.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/Shantipur.JPG"
         ],
-        "latlng": [27.715666, 85.29041899999999],
+        "latlng": [
+          27.715666,
+          85.29041899999999
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -366,9 +574,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Located in the southwest corner of the Swoyambhu stupa, between the main stupa and Vayupura shrine, the Bahu Mangal Dwara Chaitya features a dome base with four Tathagata Buddhas, totaling 124 Buddhas in all directions. Below the base are five tiers with six rows of thirty gods and symbolic doorways. Known as the 'Auspicious Chaitya with Many Doors' (Tashi Gormang Chorten) in Tibetan, it is named for its multiple doors and fortunate symbols.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/BahuMangaldwarChaitya.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/BahuMangaldwarChaitya.JPG"
         ],
-        "latlng": [27.714775, 85.29023999999998],
+        "latlng": [
+          27.714775,
+          85.29023999999998
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -379,9 +590,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "On the western side of Swoyambhu Mahachaitya stands a 10½-foot (3.2-meter) tall stone Buddha, the tallest in Swoyambhu. His right hand, in Varada mudra, is lowered in a gesture of charity, while his raised left hand holds the tip of a transparent monastic robe. This gesture, known in Nepal as the mudra of prediction, has earned him the nickname 'Buddha with the Gesture of Prediction.'",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/DevAvatar.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/DevAvatar.JPG"
         ],
-        "latlng": [27.715151, 85.28995399999997],
+        "latlng": [
+          27.715151,
+          85.28995399999997
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -392,9 +606,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "An ancient sundial, located on the northwest side of Maha Chaitya with a group of chaityas, was used by locals to tell time. Its intricate carvings and inscriptions highlight the integration of traditional timekeeping methods into sacred spaces, reflecting its historical and cultural importance.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Sundial.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/Sundial.JPG"
         ],
-        "latlng": [27.715147, 85.29013800000001],
+        "latlng": [
+          27.715147,
+          85.29013800000001
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -405,9 +622,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "The Chaturmukhi chaitya features four sides, each with distinct hand mudras. The Buddha depicted here is approaching full nirvana, marked by a three-tiered hairstyle, symbolizing full enlightenment.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/ChaturmukhiChaitya.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/ChaturmukhiChaitya.JPG"
         ],
-        "latlng": [27.715137, 85.29021899999998],
+        "latlng": [
+          27.715137,
+          85.29021899999998
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -418,9 +638,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "This rare chaitya, located on the north and northeast sides of the Swoyambhu Mahachaitya, features a cubical base with four Kubairs and an idol of Sukhavati Lokeshwor on the eastern side. Above, two additional cubical tiers hold 20 Lokeshwors and 20 more idols, including four in Charya dance postures. At the center, the four great Buddhas—Maha Amitabha, Maha Amoghasiddhi, Maha Akshobhya, and Maha Ratnasambhava—are depicted in unique forms. The top of the chaitya mirrors Swoyambhu, with four Buddhas, four Taras, and other significant elements like the Harmika and Triyodashbhuvan.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/RamyankuttaChaitya.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/RamyankuttaChaitya.JPG"
         ],
-        "latlng": [27.715045, 85.29053899999997],
+        "latlng": [
+          27.715045,
+          85.29053899999997
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -431,9 +654,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Sakhwa, a lime powder, is mixed with water and spread over the dome of Maha Chaitya as part of a ritual. Traditionally, the Sakhwa Pyau Guthi applied the lime on the last day of Swasthani Barta during Magh. In the past 50-60 years, this practice has become more frequent, with individuals now able to pay to have the dome colored on their chosen day.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Sakhwaga.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/Sakhwaga.JPG"
         ],
-        "latlng": [27.715212, 85.290208],
+        "latlng": [
+          27.715212,
+          85.290208
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -444,38 +670,49 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Aagam Chhen is a sacred space for the Buddhacharya priest family of Swoyambhu, dedicated to their tradition. 'Aagam' refers to secret rituals, and in this space, special pujas are held on certain days, with 2 to 3 distinct ceremonies performed.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/AgamChhen.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/AgamChhen.JPG"
         ],
-        "latlng": [27.714718, 85.29030399999999],
+        "latlng": [
+          27.714718,
+          85.29030399999999
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/AaganChhen.glb",
-        "virtualTour": null
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/AaganChhen.glb",
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/DiRu_gQUpe8"]
       },
       {
         "name": "Yogamvar",
         "location": "Swoyambhu Mahachaitya",
         "history": "The Yogamvar temple, located on the left side of the path from Agnipur to Santipura, symbolizes the union of sky and land. Its name comes from 'yog' (mixture) and 'amvar' (sky and land). The temple has no roof or enclosing wall, reflecting this union. Inside, a hole beneath a torana represents the deity Yogambara, with no images present.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Yogamvar.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/Yogamvar.png"
         ],
-        "latlng": [27.715549, 85.290188],
+        "latlng": [
+          27.715549,
+          85.290188
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
-        "virtualTour": null
+        "virtualTour": null,
+        "videos":["https://www.youtube.com/shorts/2IG7AhQBDqY"]
       },
       {
         "name": "Dharma Granthi Bhairav",
         "location": "Swoyambhu Mahachaitya",
         "history": "One of the unique and rare structures at Swoyambhu is the Dharma Granthi Bhairav, who holds a granthi (book) in his hands. This impressive statue is situated in the northwest, behind the Harati Temple and the Maha Chaitya, facing Biruparsha.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/DharmaGranthiBhairab.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/DharmaGranthiBhairab.JPG"
         ],
-        "latlng": [27.715084, 85.290278],
+        "latlng": [
+          27.715084,
+          85.290278
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/DharmaGanthiBhairav.glb",
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/DharmaGanthiBhairav.glb",
         "virtualTour": null
       },
       {
@@ -483,12 +720,15 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "This site is situated in the northwest, behind the Harati Temple. The Birupakshya is a partially buried human figure. According to legend, if this figure ever erects in its full form, it will signal the end of the world or the beginning of a new 'Yuga.'",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Birupakshya.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/Birupakshya.JPG"
         ],
-        "latlng": [27.715084, 85.290278],
+        "latlng": [
+          27.715084,
+          85.290278
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Bhirupakshya.glb",
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/Bhirupakshya.glb",
         "virtualTour": null
       },
       {
@@ -496,13 +736,16 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "The large Buddha statue in front of Shantipur, dating back to the 16th century, shows Buddha seated in vajrasana on a lotus throne with a lion seat, making the earth-touching gesture. While called Aksobhya, it actually represents Buddha Shakyamuni, as seen from the lion throne, which is associated with Shakyamuni, not Aksobhya.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/akshobhyaBuddha.png",
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/AkshyobhaBuddha.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/akshobhyaBuddha.png",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/AkshyobhaBuddha.png"
         ],
-        "latlng": [27.715495, 85.29034899999999],
+        "latlng": [
+          27.715495,
+          85.29034899999999
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/AkshobhyaBuddha.glb",
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/AkshobhyaBuddha.glb",
         "virtualTour": null
       },
       {
@@ -510,9 +753,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Across from Agnipur is the sacred Hari Hari Hari Vahana Lokeshvara, a replica of a monument from the Changu Narayan temple in Bhaktapur. This form of Avalokiteshvara, the bodhisattva of compassion, is shown sitting above Vishnu, Garuda (Vishnu's mount), a white lion (Lokeshvara's mount), and the serpent-king Takshaka. This symbolizes Avalokiteshvara as a supreme protector, respected even by Vishnu. The name 'Hari Hari Hari Vahana' refers to 'Lokeshvara's vehicle,' with 'Hari' symbolizing Vishnu and the animals, representing Avalokiteshvara's protection of all realms—sky, earth, and underworld.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/HariHariHariVahanaLokeshvara.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/HariHariHariVahanaLokeshvara.JPG"
         ],
-        "latlng": [27.715302, 85.290209],
+        "latlng": [
+          27.715302,
+          85.290209
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -523,9 +769,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "The chaitya houses five Buddha statues, with a stone Vajra on the eastern side. It is believed to enshrine the relics of Guru Vasubandhu, a famous Buddhist scholar who visited Nepal. The four stone sculptures of the Buddha (Tathagatas) likely came from Swoyambhu Mahachaitya, where the original stone Buddhas were replaced by metal ones. The statue of Vairochana Buddha was added later by a donor.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/VasubhanduMemorialChaitya.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/VasubhanduMemorialChaitya.JPG"
         ],
-        "latlng": [27.715586, 85.289602],
+        "latlng": [
+          27.715586,
+          85.289602
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -536,12 +785,15 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "The chaitya, known locally as 'Pulan Syangu,' is often mistakenly believed to be older than the Swoyambhu Mahacaitya. However, it is historically significant as the site where Guru Manjusri taught and initiated his disciple, Bhiksu Gunakara. The name 'Pulan Syangu,' which translates to 'Old' or 'Worn Out Swoyambhu,' stems from a misunderstanding, as the chaitya is neither older nor in worse condition than Swoyambhu.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/PulaunSyangu.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/PulaunSyangu.JPG"
         ],
-        "latlng": [27.716425, 85.28850299999999],
+        "latlng": [
+          27.716425,
+          85.28850299999999
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/PuranaSyanguChaitya.glb",
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/PuranaSyanguChaitya.glb",
         "virtualTour": null
       },
       {
@@ -549,12 +801,15 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "This site marks the base of the stairs leading up to Swoyambhu Hill and the Swoyambhu Stupa. It holds special significance as a place of prayer and worship.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/BhagwanPau.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/BhagwanPau.png"
         ],
-        "latlng": [27.714397, 85.29317100000003],
+        "latlng": [
+          27.714397,
+          85.29317100000003
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/BhagwanPau.glb",
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/BhagwanPau.glb",
         "virtualTour": null
       },
       {
@@ -562,12 +817,15 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Located at the base of the hill, this sacred site holds deep cultural and spiritual significance for the Newar community of the Kathmandu Valley. Here, they light butter lamps to honor departed family members, a tradition passed down through generations. The glowing light is believed to guide their loved ones toward peace in the afterlife.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/JanmaDwar.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/JanmaDwar.JPG"
         ],
-        "latlng": [27.714742, 85.29159300000003],
+        "latlng": [
+          27.714742,
+          85.29159300000003
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Janmadwar.glb",
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/Janmadwar.glb",
         "virtualTour": null
       },
       {
@@ -575,9 +833,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "It’s a new installation (year 1998) on the western side of Swoyambhu, there is a small pond called the World Peace Pond. In the center of the pond stands a brass statue of Buddha on a lotus flower. It is believed that if visitors successfully toss a coin into the ‘cauldron’ present in the pond's center, their wish will come true.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/WorldPeacePond.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/WorldPeacePond.JPG"
         ],
-        "latlng": [27.715842, 85.289467],
+        "latlng": [
+          27.715842,
+          85.289467
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -588,9 +849,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Gyanmala Bhajan Satal is a venue located within a rest house in Swoyambhu, where devotees primarily perform Buddhist devotional songs. Initially established as a satal, it later evolved into a space dedicated to these recitals. King Tribhuvan inaugurated this satal, which hosts performances each morning, on holidays, and daily throughout the Buddhist holy month of Gunla.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/GyanmalaBhajanSattal.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/GyanmalaBhajanSattal.JPG"
         ],
-        "latlng": [27.714962, 85.29073399999999],
+        "latlng": [
+          27.714962,
+          85.29073399999999
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -601,9 +865,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Near the top of the Swoyambhu staircase, five animal symbols representing the five Buddhas are displayed: a Peacock (alleviating suffering), Garuda (overcoming delusions), an Elephant Throne (commitment to Bodhisattva vows), a Lion (dispelling false views with wisdom), and a Horse Throne (assisting beings with great energy).",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/5SymbolicStatue.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/5SymbolicStatue.JPG"
         ],
-        "latlng": [27.714867, 85.29087600000003],
+        "latlng": [
+          27.714867,
+          85.29087600000003
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -614,9 +881,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Manjushree's paduka is situated on Gau Singhe Hill. 'Paduka' refers to footwear or footprints. This particular paduka resembles Manjushree's footwear where his disciple Vishow Mitra's eyes fell on, as a consequence of a curse.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/ManjushreePaduka.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/ManjushreePaduka.png"
         ],
-        "latlng": [27.715908, 85.287733],
+        "latlng": [
+          27.715908,
+          85.287733
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -627,9 +897,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "To the west of the Hariti temple is a square court surrounded by a unique two-story building facing east. This Baha, known as 'Jyoti Kirti Mahavihara,' was founded in 1393 A.D. by the donors of Kathmandu's Maru Tole. Later, Sakyabhiksu Sri Madhanju of Paravarta Vihara (Itum Baha) took responsibility for its care.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/JyotiKritiMahabihar.jpg"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/JyotiKritiMahabihar.jpg"
         ],
-        "latlng": [27.715109, 85.290055],
+        "latlng": [
+          27.715109,
+          85.290055
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -640,9 +913,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "The building is located on the western front of the Swoyambhu Mahachaitya. Known by a different designation, Kvapa Chen, it is the primary monastery of Swoyambhu and the home of the principal deity of the Buddhacharya sangha. This monastery is thought to have been founded during the reign of the Licchavi king in the fifth century.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/SamhyanguMahabihar.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/SamhyanguMahabihar.JPG"
         ],
-        "latlng": [27.715266, 85.28997800000002],
+        "latlng": [
+          27.715266,
+          85.28997800000002
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -653,9 +929,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "This monastery, founded in 1959 by Ven. Dagmar Tsamba Lobsang Yangphe and Ven. Nono Dechen Dorje, was built on property provided by Mr. Nati and Sanukaji Buddhacharyas. It was first offered to His Holiness the 16th Karmapa and then overseen by the 14th Shamarpa and the 17th Karmapa, Thaye Dorje. This location has historical and theological significance in Tibetan Buddhism.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/KarmaRajaMahabihar.jpg"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/KarmaRajaMahabihar.jpg"
         ],
-        "latlng": [27.715147, 85.290729],
+        "latlng": [
+          27.715147,
+          85.290729
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -666,9 +945,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Deva Dharma Maha Vihar, known in Tibetan as Marmelhakang, is the oldest monastery established by a Bhutanese Lama. This is a branch of the ‘Kagyupa’ lineage known as ‘Drupa Kayyupa’. The ground floor level serves as a pati (shelter) for the pilgrims who come to perform rituals at Hariti temple and Swoyambhu stupa.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/DevaDharmaMahabihar.jpg"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/DevaDharmaMahabihar.jpg"
         ],
-        "latlng": [27.715051, 85.29008299999998],
+        "latlng": [
+          27.715051,
+          85.29008299999998
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -679,12 +961,15 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "On the north-west side of the main stupa, behind the Harati Maa temple, lies an area adorned with a collection of chaityas, created in various styles by different devotees over time. Chaityas in this place are as follows: 1. Asoka Chaitya (Licchavi Chaitya) 2. Sikharakutta Chaitya 3. Vajradhatu Chaitya 4. Bodhisattva Chaturvyuha Chaitya 5. Jalaharyopari Jinalankrta Chaitya 6. Dharmadhatu Jinalankrta Chaitya 7. Jvalavaliyukta Chaitya 8. Astakonakrti Padmachaitya 9. Chaturvyuha Buddha chaitya 10. Sumeru chaitya.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/GroupofChaitya.JPG"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/GroupofChaitya.JPG"
         ],
-        "latlng": [27.715196, 85.29015099999998],
+        "latlng": [
+          27.715196,
+          85.29015099999998
+        ],
         "monuments": [],
         "droneView": null,
-        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/GroupofChaityas.glb",
+        "model": "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/models/Swoyambhu/GroupofChaityas.glb",
         "virtualTour": null
       },
       {
@@ -692,9 +977,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Amideva Buddha Park, located near Swoyambhu Hill and established in 2003, features a trio of towering statues. At the center is a 67-foot statue of Shakyamuni Buddha in his Amitābha form, symbolizing longevity and holding a bowl of immortality nectar. To his left stands a 64-foot statue of Chenrezig (Avalokitesvara), embodying supreme compassion, and to his right is a 64-foot statue of Guru Rinpoche (Padmasambhava), revered for spreading Vajrayana teachings and embodying primordial wisdom.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/amideva_buddha_park.png"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/amideva_buddha_park.png"
         ],
-        "latlng": [27.716093, 85.28409199999999],
+        "latlng": [
+          27.716093,
+          85.28409199999999
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -705,9 +993,12 @@
         "location": "Swoyambhu Mahachaitya",
         "history": "Ananda Kuti Mahabihar, located along Swoyambhu's circumambulation path, began construction in 1996 B.S. and was completed in 1999. By 2001 B.S., the structure was finalized under Bhikshu Dharma Lok Mahasthavir's guidance. Three Buddha relics from Sri Lanka, symbolizing his birthplace in Nepal, were presented to King Tribhuvan. A stupa resembling Sri Lanka's Thuparama Chaitya was built to house these relics. Known for its Theravada Buddhism practice, the monastery offers free meditation to both locals and visitors, with a full day of meditation held on the fourth Saturday of every month.",
         "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/AnandakutiMahabihar.jpg"
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/AnandakutiMahabihar.jpg"
         ],
-        "latlng": [27.717621, 85.28917000000001],
+        "latlng": [
+          27.717621,
+          85.28917000000001
+        ],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -716,6 +1007,7 @@
     ],
     "droneView": "https://github.com/saugatshakya/assets/blob/main/drone_view/swyambhu.png?raw=true",
     "model": null,
-    "virtualTour": "https://gallimap.com/virtualtour/swoyambu-mobile-test/"
+    "virtualTour": "https://gallimap.com/virtualtour/swoyambu-mobile-test/",
+    "videos":["https://www.youtube.com/shorts/ty-bLn4lyb0"]
   }
 ]
