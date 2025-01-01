@@ -1257,7 +1257,10 @@
         "name": "Thrangu monastery",
         "location": "Bouddha",
         "history": "Thrangu Tashi Choling Monastery, located near the Great Stupa of Boudha, was founded by Thrangu Rinpoche in 1979. Initially envisioned as a library and later a shedra (Buddhist educational institute), the monastery gradually expanded to accommodate the growing number of monks. Today, it is home to approximately 80 monks, including staff and young monks aged 7-18 who receive both secular education and training in Buddhist rituals and philosophies.\nThe monastery holds special prayers on auspicious dates according to the Tibetan lunar calendar and fulfills prayer requests within the monastery or at devotees\u2019 homes. Its monks later advance to higher Buddhist studies at the Vajra Vidya Institute Shedra or engage in the intensive year-long \"Ngondro\" preliminary practice at Namo Buddha. Thrangu Tashi Choling serves as a vital center for spiritual training and community rituals, reflecting its deep connection to the Buddhist heritage of the region.",
-        "images": [],
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Bouddha/ThranguMonastery.png",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Bouddha/ThranguMonastery.JPG"
+        ],
         "latlng": [27.72269, 85.36186],
         "monuments": [],
         "droneView": null,
@@ -1453,9 +1456,7 @@
         "name": "Halla Paau / Hallapati",
         "location": "Swoyambhu Mahachaitya",
         "history": "The Halla Paau is a pentagonal structure featuring figures of the Five Buddha Family, each in unique postures, arranged at the four cardinal directions.",
-        "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/halla_paau.png"
-        ],
+        "images": [],
         "latlng": [27.714921, 85.29039],
         "monuments": [],
         "droneView": null,
@@ -2037,9 +2038,7 @@
         "name": "Amideva Buddha Park",
         "location": "Swoyambhu Mahachaitya",
         "history": "Amideva Buddha Park, located near Swoyambhu Hill and established in 2003, features a trio of towering statues. At the center is a 67-foot statue of Shakyamuni Buddha in his Amit\u0101bha form, symbolizing longevity and holding a bowl of immortality nectar. To his left stands a 64-foot statue of Chenrezig (Avalokitesvara), embodying supreme compassion, and to his right is a 64-foot statue of Guru Rinpoche (Padmasambhava), revered for spreading Vajrayana teachings and embodying primordial wisdom.",
-        "images": [
-          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Swoyambhu/amideva_buddha_park.png"
-        ],
+        "images": [],
         "latlng": [27.716093, 85.28409199999999],
         "monuments": [],
         "droneView": null,
