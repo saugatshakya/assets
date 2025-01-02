@@ -304,7 +304,7 @@
     ],
     "droneView": null,
     "model": null,
-    "virtualTour": null,
+    "virtualTour": "https://gallimap.com/virtualtour/hadigaun-baakhan-project/",
     "videos": [],
     "id": "02fc510e-f37f-43b9-a2fd-935f13de6f74"
   },
@@ -1154,7 +1154,7 @@
     "model": null,
     "virtualTour": "https://gallimap.com/virtualtour/pashupatinath-temple/",
     "videos": [
-      "https://www.youtube.com/watch?v=VTLDCM6bMio&list=PLmTt9hYZOATBi87Ysj1Ak2-pcW9b0FV3I"
+      "https://www.youtube.com/watch?v=djsGO2VGaG4&list=PLmTt9hYZOATCDBNYEMfV9ZtajgAD5zIeT&index=2"
     ],
     "id": "c1fdfc46-fce4-4329-8225-ce671575d0c6"
   },
@@ -1271,7 +1271,7 @@
     ],
     "droneView": null,
     "model": null,
-    "virtualTour": null,
+    "virtualTour": "https://gallimap.com/virtualtour/boudha-baakhan-project/",
     "videos": [
       "https://www.youtube.com/watch?v=VTLDCM6bMio&list=PLmTt9hYZOATBi87Ysj1Ak2-pcW9b0FV3I"
     ],
@@ -2063,7 +2063,7 @@
     ],
     "droneView": "https://github.com/saugatshakya/assets/blob/main/drone_view/swyambhu.png?raw=true",
     "model": null,
-    "virtualTour": "https://gallimap.com/virtualtour/swoyambu/",
+    "virtualTour": "https://gallimap.com/virtualtour/swoyambhu/",
     "videos": ["https://www.youtube.com/shorts/ty-bLn4lyb0"],
     "id": "e1f21ca4-2279-45ff-a70e-f4c1e6db0e65"
   }
