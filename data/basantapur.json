@@ -1,0 +1,679 @@
+[
+  {
+    "name": "Basantapur Durbar Square",
+    "location": "Kathmandu",
+    "history": "",
+    "images": [
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/AshokaBinayakTemple.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/BasantapurDurbar.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/BasantapurDurbar02.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/BhagwatiTemple.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Bimaleshwar.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/ChyasinDega.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/DeguTaleju.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/DurgaTemple.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/GaddiBaithak.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/GaddiBaithak02.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/GakutiMahadev.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/GarudaLaxmiNarayan.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/GarudaNarayan.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Gopinath.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Gorakhnath.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Hanuman.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Hanuman02.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Hanumandhoka.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Hanumandhoka02.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Hanumandhoka03.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Hanumandhoka04.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Indreswor.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Jagannath.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/JoshiAgan.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/JoshiAgan02.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/JoshiAgan03.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KaalBhairav01.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KaalBhairav02.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KaalBhairav03.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KaalBhairav04.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Kageswor.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KalikaTemple.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KasthaMandap.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KasthaMandapTemple.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Kavindrapur1.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KotilingeshwarMahadevTemple.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KotilingeshworMahadevTemple01.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KumariGhar.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KumariGhar02.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KumariGhar03.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KumariGhar04.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/LaxmiNarayan.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/LaxmiNarayanTemple02.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/LayakuBahi.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MahadevaBehindKasthamandap.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MahavishnuTemple.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MahavishnuTemple02.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MahavishnuTemple03.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Mahendreswor.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MahendresworTemple.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MajuDega.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MajuDegaTemple.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MakhanGanesh.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MaruHitti02.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MaruHitti.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/NarayanMahan.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/NarayanTemple.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/PanchmukhiHanumanTemple.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/PratapMallaStambha.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/PratapMallaStambha01.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/PratapMallaStambha02.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/SaraswatiFalcha.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/SaraswatiFalcha02.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/ShivaParvatiTemple.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/SikhamuBaha.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/SilyanSattah.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Siva1.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Siva2.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Siva3.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/SwetBhairabTemple.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/TagaGanBell.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Taleju.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Taleju02.jpg",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Tarinidevi.JPG",
+      "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/TrailokyaMohanNarayanTemple.jpg"
+    ],
+    "latlng": [
+      27.703783,
+      85.30679
+    ],
+    "monuments": [
+      {
+        "name": "Tarini Devi Temple / Tarani Baha",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Tarinidevi.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Kalika Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KalikaTemple.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Makhan Ganesh Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MakhanGanesh.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Mahendreswor Mahadev Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Mahendreswor.JPG",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MahendresworTemple.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Mahavishnu Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MahavishnuTemple.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MahavishnuTemple02.JPG",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MahavishnuTemple03.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Kotilingeshwar Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KotilingeshwarMahadevTemple.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KotilingeshworMahadevTemple01.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Kageswor Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Kageswor.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Mahadev Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Siva1.JPG",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Siva2.JPG",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Siva3.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Taleju Bhawani Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Taleju.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Taleju02.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Panchamukhi Hanuman Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/PanchmukhiHanumanTemple.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Nautalle Durbar(Basantapur Tower)",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/BasantapurDurbar.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/BasantapurDurbar02.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Hanuman Stambha",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Hanuman.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Hanuman02.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Jagannath Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Jagannath.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Pratap Malla Stambha",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/PratapMallaStambha.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/PratapMallaStambha01.JPG",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/PratapMallaStambha02.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Gopinath Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Gopinath.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Kaal Bhairab Shrine",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KaalBhairav01.JPG",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KaalBhairav02.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KaalBhairav03.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KaalBhairav04.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Indrapur Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Indreswor.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Lakshmi Narayan Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/LaxmiNarayan.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/LaxmiNarayanTemple02.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Degu Talle Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/DeguTaleju.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Swet Bhairab Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/SwetBhairabTemple.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Chyasin Dega",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/ChyasinDega.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Saraswati Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/SaraswatiFalcha.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/SaraswatiFalcha02.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Taga Gan Bell",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/TagaGanBell.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Layaku Bahil",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/LayakuBahi.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Shiva Parvati/ Nava Yogini Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/ShivaParvatiTemple.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Bhagwati Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/BhagwatiTemple.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Joshi Aagan Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/JoshiAgan.JPG",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/JoshiAgan02.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/JoshiAgan03.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Maju Dega Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MajuDega.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MajuDegaTemple.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Garuda Narayan Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/GarudaLaxmiNarayan.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/GarudaNarayan.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Ashoka Binayak Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/AshokaBinayakTemple.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Durga Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/DurgaTemple.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Maru Satah(Kasthamandap)",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KasthaMandap.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KasthaMandapTemple.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Mahadev Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MahadevaBehindKasthamandap.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Silyan Satah House",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/SilyanSattah.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Kavindrapur /Dhansa",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Kavindrapur1.JPG"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Bimaleshwar Mahadev Shrine",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/Bimaleshwar.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Trailokya Mohan Narayan Temple",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/TrailokyaMohanNarayanTemple.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Sikhamu Bahal",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/SikhamuBaha.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Kumari Bahal",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KumariGhar.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KumariGhar02.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KumariGhar03.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KumariGhar04.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      },
+      {
+        "name": "Gaddi Baithak",
+        "location": "Basantapur Durbar Square",
+        "history": "",
+        "images": [
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/GaddiBaithak.jpg",
+          "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/GaddiBaithak02.jpg"
+        ],
+        "latlng": [],
+        "monuments": [],
+        "droneView": null,
+        "model": null,
+        "virtualTour": null,
+        "videos": []
+      }
+    ],
+    "droneView": null,
+    "model": null,
+    "virtualTour": null,
+    "videos": []
+  }
+]
