@@ -1046,7 +1046,7 @@
   {
     "name": "Basantapur Durbar Square",
     "location": "Kathmandu",
-    "history": "",
+    "history": "Hanumandhoka Durbar Square, also known as Basantapur Durbar Square, is one of the monument zones in Kathmandu Valley World Heritage Sites inscribed in UNESCO. This historic site is surrounded by the vibrant urban sprawl of Nepal’s capital. Steeped in history, the square served as the royal palace of the Malla kings and later the Shah dynasty. Its name is derived from the iconic statue of Hanuman, the monkey god, which guards the main entrance to the ancient palace complex. The square is renowned for its stunning blend of traditional Nepali architecture, rich cultural significance, and numerous courtyards, temples, and palace complexes that represent the zenith of Newar craftsmanship.",
     "images": [
       "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/AshokaBinayakTemple.jpg",
       "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/BasantapurDurbar.jpg",
@@ -1156,7 +1156,7 @@
         "images": [
           "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/KalikaTemple.jpg"
         ],
-        "latlng": [],
+        "latlng": [27.70529, 85.30803],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -1171,7 +1171,7 @@
         "images": [
           "https://raw.githubusercontent.com/saugatshakya/assets/refs/heads/main/photos/Basantapur/MakhanGanesh.JPG"
         ],
-        "latlng": [],
+        "latlng": [27.70528, 85.30807],
         "monuments": [],
         "droneView": null,
         "model": null,
@@ -2051,7 +2051,7 @@
         "location": "Basantapur Durbar Square",
         "history": "Trishul Chowk, located to the north of Taleju Temple, is named after a large stone trident (Trishul) located in the courtyard. This chowk is also home to an Agnishala (fire shrine) and a Dabali (performance platform). A stable for Taleju’s horse is located in this area, and around the chowk are notable stone icons, including Jalasayan Narayan, Garuda, and Vamsa Gopal. These elements make Trishul Chowk an integral part of the religious and cultural heritage of the Hanuman Dhoka complex.",
         "images": [],
-        "latlng": [],
+        "latlng": [27.70454, 85.30779],
         "monuments": [],
         "droneView": null,
         "model": null,
