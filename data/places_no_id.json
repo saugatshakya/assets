@@ -1109,7 +1109,7 @@
     ],
     "droneView": null,
     "model": null,
-    "virtualTour": "https://gallimap.com/virtualtour/hanumandhoka-durbar-square/",
+    "virtualTour": "https://virtualtour.airliftventures.com/hanumandhoka-durbar-square/",
     "videos": []
   },
   {
@@ -1944,7 +1944,7 @@
     ],
     "droneView": null,
     "model": null,
-    "virtualTour": "https://gallimap.com/virtualtour/pashupatinath-temple/",
+    "virtualTour": "https://virtualtour.airliftventures.com/pashupatinath-temple/",
     "videos": [
       "https://www.youtube.com/watch?v=VTLDCM6bMio&list=PLmTt9hYZOATBi87Ysj1Ak2-pcW9b0FV3I"
     ]
@@ -2850,7 +2850,7 @@
     ],
     "droneView": "https://github.com/saugatshakya/assets/blob/main/drone_view/swyambhu.png?raw=true",
     "model": null,
-    "virtualTour": "https://gallimap.com/virtualtour/swoyambu/",
+    "virtualTour": "https://virtualtour.airliftventures.com/swoyambu/",
     "videos": ["https://www.youtube.com/shorts/ty-bLn4lyb0"]
   }
 ]
