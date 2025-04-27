@@ -1035,9 +1035,9 @@
         "id": "894bf2a6-71d9-4306-bd5b-17e1eb7ec728"
       }
     ],
-    "droneView": "https://github.com/saugatshakya/assets/blob/main/drone_view/swyambhu.png?raw=true",
     "model": null,
-    "virtualTour": "https://virtualtour.airliftventures.com/swoyambhu/",
+    "virtualTour": "https://virtualtour.airliftventures.com/swoyambu-mobile-test/",
+    "droneView": "https://github.com/saugatshakya/assets/blob/main/drone_view/swyambhu.png?raw=true",
     "videos": [
       "https://www.youtube.com/shorts/ty-bLn4lyb0"
     ],
