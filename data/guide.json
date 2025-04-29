@@ -44,7 +44,7 @@
   {
     "Name": "Amir Maharjan",
     "Languages": ["English"],
-    "Phone": ["01-4330142", "9803760911 / 9860365419"],
+    "Phone": ["01-4330142", "9803760911","9860365419"],
     "Email": ["amirroune@hotmail.com", "mahaamir321@gmail.com"]
   },
   {
@@ -56,7 +56,7 @@
   {
     "Name": "Amrit Pudasaini",
     "Languages": ["Chinese", "English"],
-    "Phone": ["4450681", "9851191422 / 9841383924"],
+    "Phone": ["4450681", "9851191422" ,"9841383924"],
     "Email": ["pudasainiamrit@gmail.com"]
   },
   {
@@ -74,13 +74,13 @@
   {
     "Name": "Anal Sharma",
     "Languages": ["English", "Spanish"],
-    "Phone": ["4270065 / 4278826", "9841-412015"],
+    "Phone": ["4270065", "4278826", "9841-412015"],
     "Email": ["anal_sharma@hotmail.com", "analsharma03@gmail.com"]
   },
   {
     "Name": "Ananda Gyawali",
     "Languages": ["English", "Korean"],
-    "Phone": ["9851231416 / 9808379891"],
+    "Phone": ["9851231416", "9808379891"],
     "Email": ["gyawaliananda@gmail.com", "anandagyawali@hotmail.com"]
   },
   {
@@ -218,7 +218,7 @@
   {
     "Name": "Bal Krishna Upreti",
     "Languages": ["English", "German"],
-    "Phone": ["4810832 (Res)", "9841264605"],
+    "Phone": ["01-4810832", "9841264605"],
     "Email": []
   },
   {
@@ -236,7 +236,7 @@
   {
     "Name": "Balsudan Rajbandary",
     "Languages": ["English"],
-    "Phone": ["5534414", "9880566272, 9880851686, 9851044542"],
+    "Phone": ["01-5534414", "9880566272", "9880851686", "9851044542"],
     "Email": ["balsunmoon@gmail.com"]
   },
   {
